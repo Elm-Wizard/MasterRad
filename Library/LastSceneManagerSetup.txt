@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Volshebnik Games/Scenes/World_School.unity
+- path: Assets/Volshebnik Games/Scenes/World_Outdoor.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
